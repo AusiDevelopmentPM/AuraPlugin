@@ -1,0 +1,23 @@
+{
+  "name": "ausidevelopmentpm/auraplugin",
+  "description": "A plugin that kicks away players near you",
+  "minimum-stability": "stable",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "project",
+  "authors": [
+    {
+      "name": "EyNoah1171",
+      "email": "eynoah1171@gmx.net",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "pocketmine/pocketmine-mp": ">=5.39.3",
+    "dktapps/pmforms": ">=2.3.0"
+  },
+  "require-dev": {
+    "phpstan/phpstan": ">=2.1.16",
+    "squizlabs/php_codesniffer": ">=4.0.1"
+  }
+}
