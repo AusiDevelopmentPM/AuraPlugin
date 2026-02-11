@@ -4,8 +4,8 @@ namespace AusiDevelopmentPM;
 
 use pocketmine\plugin\PluginBase;
 
-class AuraPlugin extends PluginBase {
-
+class AuraPlugin extends PluginBase
+{
     private static AuraPlugin $instance;
 
     public function onEnable(): void
@@ -22,7 +22,5 @@ class AuraPlugin extends PluginBase {
 
     public function onDisable(): void
     {
-
     }
-
 }
