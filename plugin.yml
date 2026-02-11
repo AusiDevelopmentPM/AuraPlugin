@@ -1,0 +1,7 @@
+name: AuraPlugin
+version: 1.0.0
+author: AusiDevelopmentPM
+authors:
+  - EyNoah1171
+
+main: AusiDevelopmentPM\AuraPlugin
