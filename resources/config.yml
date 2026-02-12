@@ -1,0 +1,25 @@
+
+Aura:
+  Radius: 1
+  knockbackPower: 1
+
+  Command:
+    Name: "aura"
+    Description: "Activate/Deactivate your Aura"
+    Permissions:
+      Use: "aura.use"
+      Bypass: "aura.bypass"
+
+  Messages:
+    NoPermission: "&cYou dont have Perms to use this Feature."
+    Activated: "&aYour Aura has been enabled!"
+    Deactivated: "&cYour Aura has been disabled!"
+    Status:
+      Active: "&aACTIVE"
+      Inactive: "&cINACTIVE"
+    UI:
+      Title: "&5Aura"
+      Content: "&r&7Status&8: &e%status%"
+      Button:
+        Activate: "&aActivate your &5Aura"
+        Deactivate: "&cDeactivate your &5Aura"
